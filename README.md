@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou João Leonardo Ohasi Amorim</h1>
-<h3 align="center">🏄🏽‍♂️ Indie iOS Developer</h3>
+<h3 align="center">🏄🏽‍♂️ Indie iOS Developer e aluno de ADS pela PUC Minas</h3>
 
 - 🌱 Atualmente estou aprendendo **ViewCode, UIKit, SwiftUI**
 
