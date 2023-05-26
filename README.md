@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **ViewCode, UIKit, SwiftUI**
 
-- 💬 Me pergunte sobre **Swift**
+- 💬 Me pergunte sobre **Swift, iOS**
 
 - 📫 Como falar comigo **jlohasi@gmail.com**
 
