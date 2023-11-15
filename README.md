@@ -5,8 +5,8 @@
         <img src="https://developer.apple.com/develop/images/hero-lockup-large_2x.webp" width="500">
       </td>
       <td>
-        <h2>Olá 👋, Eu sou João Leonardo Ohasi Amorim</h2>
-        <h3>🏄🏽‍♂️ Indie iOS Developer e aluno de ADS pela PUC Minas</h3>
+        <h3>Olá 👋, Eu sou João Leonardo Ohasi Amorim</h3>
+        <h4>🏄🏽‍♂️ Indie iOS Developer e aluno de ADS pela PUC Minas</h4>
         <p>🌱 Atualmente estudando ViewCode e SwiftUI</p>
         <p>📫 Como falar comigo: jlohasi@gmail.com</p>
         <h3>Conecte-se comigo:</h3>
