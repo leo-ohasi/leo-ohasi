@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://developer.apple.com/develop/images/hero-lockup-large_2x.webp" width="500">
+        <img src="https://developer.apple.com/develop/images/hero-lockup-large_2x.webp" width="300">
       </td>
       <td>
         <h3>Olá 👋, Eu sou João Leonardo Ohasi Amorim</h3>
