@@ -11,7 +11,7 @@ Fico feliz em receber feedbacks, responder dúvidas ou apenas trocar uma ideia. 
 
 ---
 
-<h3 align="center">🔗 Conecte-se comigo:</h3>
+<h3 align="center"> Conecte-se comigo:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/leonardo-ohasi" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-ohasi" height="30" width="40" />
@@ -23,7 +23,7 @@ Fico feliz em receber feedbacks, responder dúvidas ou apenas trocar uma ideia. 
 
 ---
 
-<h3 align="center">🛠️ Linguagens e Ferramentas:</h3>
+<h3 align="center"> Linguagens e Ferramentas:</h3>
 <p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
